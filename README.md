@@ -1,8 +1,8 @@
-# 🧠 R.E.C.A.L.L. Foundation
+# 🧠 R.E.C.A.L.L. Institute for Autonomous Continuous Development
 
 ### *Research. Explicit Context. Archival. Linkage. Logic.*
 
-The **R.E.C.A.L.L. Foundation** promotes open research and standardization in cognitive architectures and autonomous reasoning systems.
+The **R.E.C.A.L.L. Institute for Autonomous Continuous Development** promotes open research and standardization in cognitive architectures and autonomous reasoning systems.
 Its mission is to define and maintain foundational specifications that enable *continuity of cognition* — bridging retrieval, memory, and reasoning in scalable, efficient systems.
 
 ---
@@ -34,7 +34,7 @@ To advance research and development of **Autonomous Continuous Development (ACD)
 
 ## ⚖️ Licensing
 
-**© R.E.C.A.L.L. Foundation** — All Rights Reserved.
+**© R.E.C.A.L.L. Institute for Autonomous Continuous Development** — All Rights Reserved.
 The **Autonomous Continuous Development (ACD) Specification** is **dual-licensed** under:
 
 * **GNU General Public License v3 (GPLv3)** for open-source and research use.
